@@ -1,1 +1,1 @@
-# xcosearth.gihup.io
+# xcosearth.github.io
